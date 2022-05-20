@@ -71,5 +71,6 @@ constan de un título y una extensión.
 ● Para cada revista, almacenaremos información de cada ***ejemplar***, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
 
-![image](https://user-images.githubusercontent.com/101658619/169095565-e7bdfb10-38f9-4b53-a3eb-cd1d3401b4ec.png)
+![image](https://user-images.githubusercontent.com/101658619/169563183-bbc3b1e6-afdc-4c16-ad02-82ddd637ca51.png)
+
 
