@@ -5,20 +5,38 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+INSERT
+
+SELECT
+
+UPDATE
+
+DELETE
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
+CARACTER, NÚMERICO, BOLEANO
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+TRUNCATE ES UNA FORMA MÁS RÁPIDA DE ELIMINAR TABLA MIENTRAS QUE DELETE ELIMINA CIERTOS CAMPOS ESPECIFICOS.
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+PARA EVITAR QUE SE DUPLIQUE MÁS DE UN VALOR EN UN COLUMNA
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
+VARCHAR OPTIMINA EL GUARDADO DE VALORES MIENTRAS QUE CHAR SI SEÑALA QUE DEBE SER UN NÚMERO ESPECIFICO DE CARACTERES SE DELIMITA A LOS CARACTERES SEÑALADOS
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+STRUCTURATED QUENTY LANGUGE (LENGUAJE DE CONSULTA ESTRUCTURADA)
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+ES UN GESTOR DE BASE DE DATOS QUE ALMACENA Y MODIFICA LA MISMA
+
 
 ## Práctica 5.
 ### Gestores de base de datos
@@ -36,6 +54,8 @@ En un mapa conceptual presenta 3 gestores de bases de datos, sus característica
 principales, las ventajas y desventajas. (valor 6)
 
 ![image](https://user-images.githubusercontent.com/91554777/170415427-e2b7321b-a97f-43b0-ac24-6e506c307e6b.png)
+![image](https://user-images.githubusercontent.com/101658619/170519660-ab6b5a22-b834-4006-8ceb-70d10a2e553d.png)
+
 
 ## Práctica 6.
 ### Herramienta en línea y ejercicio necesarios para realizar las prácticas
