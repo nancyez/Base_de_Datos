@@ -11,3 +11,5 @@ Realiza las siguientes notas
 
 Agrega un campo en nota que se llame IVA, sabiendo el IVA es de 16% este campo contendrá el valor que corresponda al IVA del subtotal, además de otro campo total donde se mostrará el total de la nota con el IVA.
 
+https://www.db-fiddle.com/f/2MsJpR6Acqh4QPNSYsyeGo/1
+
