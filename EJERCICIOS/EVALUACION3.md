@@ -71,6 +71,8 @@ Objetivo: Demostrar las operaciones que se realizan en una base de datos.
 Ejercicio: Crea una base de datos llamada test que contenga una tabla llamada
 alumnos con las siguientes columnas. (valor 18)
 
+https://www.db-fiddle.com/f/ccku9epA1DnSV5yodyPG83/0
+
 Evaluación:
 
 Creación de la base de datos : 9 puntos.
