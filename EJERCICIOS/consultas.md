@@ -27,12 +27,15 @@ En la BD utilizada en clase realiza las siguientes consultas:
 * ![image](https://user-images.githubusercontent.com/101658619/170740122-8c48d95e-1961-4589-a7be-d342ae935b8b.png)
 
 * Muestra el nombre de la revista que se hayan impreso despues del 30 de septiembre del 2021
-* 
+* ![image](https://user-images.githubusercontent.com/101658619/171624224-b04872b4-823b-42d3-bf52-7cd0f091c0d0.png)
+
+
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
+* 
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
 
-MI BASE DE DATOS: https://www.db-fiddle.com/f/uVAKBXbd3aoWtKfKv6CbQd/6
+MI BASE DE DATOS: https://www.db-fiddle.com/f/uVAKBXbd3aoWtKfKv6CbQd/7
 
 EJEMPLO
 https://www.db-fiddle.com/f/f5YQQo1MCXhD95LFCdiYFB/13
