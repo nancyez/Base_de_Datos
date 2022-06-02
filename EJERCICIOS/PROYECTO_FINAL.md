@@ -32,3 +32,5 @@ un código de categoría único.
 
 ![image](https://user-images.githubusercontent.com/101658619/171616600-61c62141-770b-44c1-b8f9-f64ff6e6320b.png)
 
+https://www.db-fiddle.com/f/hhxfpjK7np3axCP74yqPdy/0
+
