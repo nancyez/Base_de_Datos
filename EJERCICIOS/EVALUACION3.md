@@ -40,9 +40,11 @@ también debe incluir los fabricantes que no tienen ningún producto. El resulta
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
-![image](https://user-images.githubusercontent.com/101658619/171673986-accf4a79-06f7-4743-9efa-184e1b4d243f.png)
+![image](https://user-images.githubusercontent.com/101658619/171883811-55c8398c-f554-41b7-bd6d-1c8e5a43d9ba.png)
 
-![image](https://user-images.githubusercontent.com/101658619/171673914-64780335-10fc-4d56-bb22-9f3b57a9c8f8.png)
+
+![image](https://user-images.githubusercontent.com/101658619/171883866-d1212210-c173-43b7-a2c1-ad1e9394a227.png)
+
 
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
@@ -59,8 +61,9 @@ datos que se solicitan. (valor 4.5)
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
-![image](https://user-images.githubusercontent.com/101658619/171675835-4d8a705f-c2ef-40af-8285-ddd6bb7d9e1a.png)
-![image](https://user-images.githubusercontent.com/101658619/171675882-539dec0b-33c6-4a20-97c6-83490943bf12.png)
+![image](https://user-images.githubusercontent.com/101658619/171900569-e56c816f-7ea3-4e29-9ec4-07b36caf4dcc.png)
+
+![image](https://user-images.githubusercontent.com/101658619/171900599-04223624-a5c5-4c1a-8f38-03efe87dac32.png)
 
 
 ## Práctica 8.
