@@ -26,7 +26,7 @@ Es un almacen de datos único y centralizado que agrega y combina información d
 ### Funciones en SQL
 Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la gestión
 
-https://www.db-fiddle.com/f/r1PHXXpzUwunenY8wmZdGD/3
+https://www.db-fiddle.com/f/r1PHXXpzUwunenY8wmZdGD/4
 
 Ejercicio:
 
